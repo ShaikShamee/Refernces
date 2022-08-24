@@ -1,0 +1,6 @@
+D:\Ecom\Product\bin\Debug\Product.dll
+D:\Ecom\Product\bin\Debug\Product.pdb
+D:\Ecom\Product\obj\Debug\Product.csproj.AssemblyReference.cache
+D:\Ecom\Product\obj\Debug\Product.csproj.CoreCompileInputs.cache
+D:\Ecom\Product\obj\Debug\Product.dll
+D:\Ecom\Product\obj\Debug\Product.pdb
