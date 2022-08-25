@@ -1,0 +1,14 @@
+D:\Ecom\DotNetTopics\bin\Debug\netcoreapp3.1\DotNetTopics.exe
+D:\Ecom\DotNetTopics\bin\Debug\netcoreapp3.1\DotNetTopics.deps.json
+D:\Ecom\DotNetTopics\bin\Debug\netcoreapp3.1\DotNetTopics.runtimeconfig.json
+D:\Ecom\DotNetTopics\bin\Debug\netcoreapp3.1\DotNetTopics.runtimeconfig.dev.json
+D:\Ecom\DotNetTopics\bin\Debug\netcoreapp3.1\DotNetTopics.dll
+D:\Ecom\DotNetTopics\bin\Debug\netcoreapp3.1\DotNetTopics.pdb
+D:\Ecom\DotNetTopics\obj\Debug\netcoreapp3.1\DotNetTopics.csproj.AssemblyReference.cache
+D:\Ecom\DotNetTopics\obj\Debug\netcoreapp3.1\DotNetTopics.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ecom\DotNetTopics\obj\Debug\netcoreapp3.1\DotNetTopics.AssemblyInfoInputs.cache
+D:\Ecom\DotNetTopics\obj\Debug\netcoreapp3.1\DotNetTopics.AssemblyInfo.cs
+D:\Ecom\DotNetTopics\obj\Debug\netcoreapp3.1\DotNetTopics.csproj.CoreCompileInputs.cache
+D:\Ecom\DotNetTopics\obj\Debug\netcoreapp3.1\DotNetTopics.dll
+D:\Ecom\DotNetTopics\obj\Debug\netcoreapp3.1\DotNetTopics.pdb
+D:\Ecom\DotNetTopics\obj\Debug\netcoreapp3.1\DotNetTopics.genruntimeconfig.cache
