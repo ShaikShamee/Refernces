@@ -4,7 +4,7 @@
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <ApplicationIcon />
-    <StartupObject>DotNetTopics.Calculator</StartupObject>
+    <StartupObject>DotNetTopics.TestInterfaces</StartupObject>
   </PropertyGroup>
 
 </Project>
